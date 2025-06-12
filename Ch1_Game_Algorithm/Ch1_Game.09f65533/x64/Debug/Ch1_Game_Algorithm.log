@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\User\Desktop\GamePrograming5\Ch1_Game_Algorithm\main.cpp(43,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\User\Desktop\GamePrograming5\Ch1_Game_Algorithm\main.cpp(43,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  Ch1_Game_Algorithm.vcxproj -> C:\Users\User\Desktop\GamePrograming5\Ch1_Game_Algorithm\x64\Debug\Ch1_Game_Algorithm.exe
