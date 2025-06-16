@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GamePrograming5\\Ch1_Game_Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09F65533-B954-44E5-B3B8-78AFFD39A2F9}|Ch1_Game_Algorithm.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming5\\Ch1_Game_Algorithm\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{09F65533-B954-44E5-B3B8-78AFFD39A2F9}|Ch1_Game_Algorithm.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D2F21FE6-9A98-4841-8E78-E770621F2455}|..\\Sh3_Insert_Quick_Sort\\Sh3_Insert_Quick_Sort.vcxproj|C:\\Users\\User\\Desktop\\GamePrograming5\\Sh3_Insert_Quick_Sort\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +19,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming5\\Ch1_Game_Algorithm\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming5\\Ch1_Game_Algorithm\\main.cpp*",
-              "RelativeToolTip": "main.cpp*",
-              "ViewState": "AgIAADMAAAAAAAAAAAAgwEIAAAAqAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GamePrograming5\\Sh3_Insert_Quick_Sort\\main.cpp",
+              "RelativeDocumentMoniker": "..\\Sh3_Insert_Quick_Sort\\main.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GamePrograming5\\Sh3_Insert_Quick_Sort\\main.cpp*",
+              "RelativeToolTip": "..\\Sh3_Insert_Quick_Sort\\main.cpp*",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAALAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-12T07:36:51.648Z",
+              "WhenOpened": "2025-06-16T06:58:51.45Z",
               "EditorCaption": ""
             }
           ]
